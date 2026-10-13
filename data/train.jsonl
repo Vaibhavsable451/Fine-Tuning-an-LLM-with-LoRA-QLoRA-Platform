@@ -1,0 +1,8 @@
+{"context": "Full-time employees receive 20 days of paid vacation per year. Unused vacation days carry over up to a maximum of 5 days.", "question": "How many vacation days can I carry over?", "answer": "Up to 5 days can be carried over."}
+{"context": "Meals during business travel are reimbursed up to 60 USD per day. Receipts must be submitted within 30 days.", "question": "What is the daily meal limit?", "answer": "60 USD per day."}
+{"context": "Passwords must be at least 14 characters and rotated every 180 days.", "question": "How often must I rotate my password?", "answer": "Every 180 days."}
+{"context": "Passwords must be at least 14 characters and rotated every 180 days.", "question": "Do I need a hardware security key?", "answer": "I don't know based on the provided context."}
+{"context": "Each employee has a 1,500 USD annual learning budget. Unused budget does not roll over.", "question": "Does unused learning budget roll over?", "answer": "No, unused budget does not roll over."}
+{"context": "Parental leave is 16 weeks fully paid for all parents.", "question": "Is there a gym stipend?", "answer": "I don't know based on the provided context."}
+{"context": "Security incidents must be reported to security@acme.example within 24 hours.", "question": "Within what time must incidents be reported?", "answer": "Within 24 hours, to security@acme.example."}
+{"context": "Employees may work remotely up to three days per week with manager approval.", "question": "Who approves fully remote work?", "answer": "I don't know based on the provided context."}
